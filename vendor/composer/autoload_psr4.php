@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'dnvmaster\\' => array($vendorDir . '/dnvmaster/core'),
+    'dnvmaster\\' => array($vendorDir . '/dnvmaster/Core'),
     'app\\' => array($baseDir . '/app'),
 );

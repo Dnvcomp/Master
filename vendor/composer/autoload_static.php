@@ -20,7 +20,7 @@ class ComposerStaticInit17ec61f14e306ea99f053ff17125eace
     public static $prefixDirsPsr4 = array (
         'dnvmaster\\' => 
         array (
-            0 => __DIR__ . '/..' . '/dnvmaster/core',
+            0 => __DIR__ . '/..' . '/dnvmaster/Core',
         ),
         'app\\' => 
         array (
