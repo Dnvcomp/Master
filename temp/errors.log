@@ -196,3 +196,7 @@
 ---------------
 [2020-07-12 17:37:35] Текст ошибки: Метод app\controllers\PageController::wievAction не найден | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 29
 ---------------
+[2020-07-17 13:35:12] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 35
+---------------
+[2020-07-17 13:35:21] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 29
+---------------
