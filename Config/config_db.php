@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'dsn' => 'mysql:host=localhost;dbname=dnvmaster.loc;charset=utf8',
+    'dsn' => 'mysql:host=localhost; dbname=dnvservice; charset=utf8',
     'user' => 'root',
-    'password' => '',
+    'pass' => '',
 ];

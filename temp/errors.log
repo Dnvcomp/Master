@@ -210,3 +210,59 @@
 ---------------
 [2020-07-18 14:57:20] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
 ---------------
+[2020-07-18 15:41:28] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:04:03] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:05:39] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:07:00] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:07:02] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:07:03] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:07:03] Текст ошибки: Нет соединения с базой данных | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Db.php | Cтрока: 15
+---------------
+[2020-07-18 16:08:47] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:09:41] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:09:42] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:09:43] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:11:44] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:11:45] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:11:46] Текст ошибки: Не найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 42
+---------------
+[2020-07-18 16:15:59] Текст ошибки: На найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 41
+---------------
+[2020-07-18 16:16:00] Текст ошибки: На найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 41
+---------------
+[2020-07-18 16:16:01] Текст ошибки: На найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 41
+---------------
+[2020-07-18 16:16:01] Текст ошибки: На найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 41
+---------------
+[2020-07-18 16:16:01] Текст ошибки: На найден вид D:\OSPanel\domains\dnvmaster.loc/app/views/Page/view.php | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\base\View.php | Cтрока: 41
+---------------
+[2020-07-18 16:18:16] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 37
+---------------
+[2020-07-18 16:26:35] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvservice.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:27:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:27:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:27:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:27:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:27:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:28:00] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvservice.test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------
+[2020-07-18 16:29:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dnvmaster.tb_test' doesn't exist | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Cтрока: 199
+---------------

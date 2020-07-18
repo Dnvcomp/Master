@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'dnvmaster\\' => array($vendorDir . '/dnvmaster/Core'),
+    'dnvmaster\\' => array($vendorDir . '/Dnvmaster/Core'),
     'app\\' => array($baseDir . '/app'),
+    'RedBeanPHP\\' => array($vendorDir . '/gabordemooij/redbean/RedBeanPHP'),
 );

@@ -2,6 +2,8 @@
 
 namespace dnvmaster\base;
 
+use dnvmaster\Db;
+
 abstract class Model
 {
     public $attributes = [];
@@ -10,6 +12,6 @@ abstract class Model
 
     public function __construct()
     {
-        //
+        Db::instance();
     }
 }
