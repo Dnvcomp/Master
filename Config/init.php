@@ -8,7 +8,7 @@ define("CORE", ROOT . '/vendor/dnvmaster/Core');
 define("LIBS", ROOT . '/vendor/dnvmaster/Core/libs');
 define("CACHE", ROOT . '/temp/cache');
 define("CONF", ROOT . '/Config');
-define("LAYOUT", 'default');
+define("LAYOUT", 'dnvmaster');
 $app = "http://{$_SERVER['HTTP_HOST']}{$_SERVER['PHP_SELF']}";
 $app = preg_replace("#[^/]+$#", '', $app);
 $app = str_replace('/public/', '', $app);
