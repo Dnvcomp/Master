@@ -1,6 +1,10 @@
 <?php
 
-namespace app\Widjets\currency;
+
+namespace app\widjets\currency;
+
+
+use dnvmaster\App;
 
 class Currency
 {
@@ -10,13 +14,14 @@ class Currency
 
     public function __construct()
     {
-        $this->template = __DIR__ . '/currency_tpl/currency.php';
+        $this->template = __DIR__ .'/currency_template/currency.php';
         $this->run();
     }
-
     protected function run()
     {
-        $this->getHtml();
+        $this->currencies = App::$app->getProperty('currencies');
+        $this->currency = App::$app->getProperty('currency');
+        echo $this->getHtml();
     }
 
     public static function getCurrencies()
@@ -26,8 +31,7 @@ class Currency
 
     public static function getCurrency($currencies)
     {
-        if(isset($_COOKIE['currency']) && array_key_exists($_COOKIE['currency'], $currencies))
-        {
+        if (isset($_COOKIE['currency']) && array_key_exists($_COOKIE['currency'], $currencies)) {
             $key = $_COOKIE['currency'];
         } else {
             $key = key($currencies);
@@ -39,8 +43,8 @@ class Currency
 
     protected function getHtml()
     {
-        //
+        ob_start();
+        require_once $this->template;
+        return ob_get_clean();
     }
-
-
 }
