@@ -35,7 +35,8 @@
 <?php endif; ?>
 
 <!--product-starts-->
-<?php if($brands): ?>
+<?php if($hits): ?>
+<?php $curr = \dnvmaster\App::$app->getProperty('currency'); ?>
 <div class="product">
     <div class="container">
         <div class="product-top">
@@ -49,11 +50,11 @@
                             <p><?= $hit->content; ?></p>
                             <h4>
                                 <a class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a>
-                                <span class=" item_price">$ <?= $hit->price; ?></span>&nbsp;
+                                <span class=" item_price"><?= $curr['symbol_left']; ?> <?= $hit->price * $curr['value']; ?></span>
                                 <?php if($hit->old_price): ?>
                                     <smail>
                                         <del>
-                                            <?= $hit->old_price; ?>
+                                            <?= $hit->old_price * $curr['value']; ?>
                                         </del>
                                     </smail>
                                 <?php endif; ?>
@@ -73,4 +74,3 @@
     </div>
 </div>
 <?php endif; ?>
-<!-- // product-end-->
