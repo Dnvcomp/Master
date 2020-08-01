@@ -62,9 +62,7 @@
                 <div class="header">
                     <div class="col-md-9 header-left">
                         <div class="menu">
-                            <?php new \app\widjets\menu\Menu([
-                                    'template' => WWW . 'menu/menu.php'
-                            ]); ?>
+                            <?php new \app\widjets\menu\Menu(['template' => WWW . '/menu/menu.php']); ?>
                         </div>
 
                         <!-- <div class="top-nav">

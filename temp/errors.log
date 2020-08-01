@@ -3,3 +3,7 @@
 ---------------
 [2020-08-01 11:37:46] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 37
 ---------------
+[2020-08-01 21:56:19] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 34
+---------------
+[2020-08-01 21:56:25] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: D:\OSPanel\domains\dnvmaster.loc\vendor\dnvmaster\Core\Router.php | Cтрока: 34
+---------------
