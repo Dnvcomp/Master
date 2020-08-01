@@ -61,7 +61,13 @@
             <div class="container">
                 <div class="header">
                     <div class="col-md-9 header-left">
-                        <div class="top-nav">
+                        <div class="menu">
+                            <?php new \app\widjets\menu\Menu([
+                                    'template' => WWW . 'menu/menu.php'
+                            ]); ?>
+                        </div>
+
+                        <!-- <div class="top-nav">
                             <ul class="memenu skyblue">
                                 <li class="active">
                                     <a href="index.html">Home</a>
@@ -83,7 +89,7 @@
                                                     <li><a href="products.html">Watches</a></li>
                                                     <li><a href="products.html">My Shopping Bag</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
+                                            </div>
 
                                             <div class="col1 me-one">
                                                 <h4>Style Zone</h4>
@@ -95,7 +101,7 @@
                                                     <li><a href="products.html">Accessories</a></li>
                                                     <li><a href="products.html">Trousers</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
+                                            </div>
 
                                             <div class="col1 me-one">
                                                 <h4>Popular Brands</h4>
@@ -109,10 +115,10 @@
                                                     <li><a href="products.html">TomTom</a></li>
                                                     <li><a href="products.html">Titan</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
-                                        </div><!-- // row-->
-                                    </div><!-- //mepanel -->
-                                </li><!-- // class grid -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
                                 <li class="grid">
                                     <a href="#">Women</a>
                                     <div class="mepanel">
@@ -130,7 +136,7 @@
                                                     <li><a href="products.html">Watches</a></li>
                                                     <li><a href="products.html">My Shopping Bag</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
+                                            </div>
 
                                             <div class="col1 me-one">
                                                 <h4>Style Zone</h4>
@@ -142,7 +148,7 @@
                                                     <li><a href="products.html">Accessories</a></li>
                                                     <li><a href="products.html">Trousers</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
+                                            </div>
 
                                             <div class="col1 me-one">
                                                 <h4>Popular Brands</h4>
@@ -156,10 +162,10 @@
                                                     <li><a href="products.html">TomTom</a></li>
                                                     <li><a href="products.html">Titan</a></li>
                                                 </ul>
-                                            </div><!-- // col1 me-one -->
-                                        </div><!-- // row -->
-                                    </div><!-- // mepanel -->
-                                </li><!-- // class grid -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
                                 <li class="grid"><a href="#">Kids</a>
                                     <div class="mepanel">
                                         <div class="row">
@@ -207,6 +213,7 @@
                                 <li class="grid"><a href="contact.html">Contact</a></li>
                             </ul>
                         </div>
+                        -->
                         <div class="clearfix"></div>
                     </div>
 
